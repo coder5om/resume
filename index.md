@@ -1,6 +1,6 @@
 # Omkar Amale
 
-<img src="https://github.com/coder5om/resume/blob/main/MyProfilePicture.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+<img src="C:\Users\omkar\IdeaProjects\resume\MyProfilePicture.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
 
 **Senior Software Engineer @ Synechron**
 Empowering enterprises to unlock the potential of their data through innovative software engineering solutions.
